@@ -1,0 +1,3 @@
+CD wifi
+chmod +x wifi.sh
+sh wifi.sh
